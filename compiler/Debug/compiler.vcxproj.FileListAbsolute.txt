@@ -1,0 +1,2 @@
+C:\Users\leise\source\repos\compiler\Debug\compiler.exe
+C:\Users\leise\source\repos\compiler\Debug\compiler.pdb
