@@ -1,3 +1,5 @@
+// 建议所有源文件都用这个当头文件，加入新库文件也加在这里
+
 #include<iostream>  
 #include<fstream>  
 #include<vector>  
